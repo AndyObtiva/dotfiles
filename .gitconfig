@@ -1,0 +1,23 @@
+[user]
+	email = andy.am@gmail.com
+	name = AndyObtiva
+[push]
+	default = simple
+[alias]
+  br = branch
+  bd = branch -D
+  cb = checkout -b
+  ci = commit
+  co = checkout
+  cp = cherry-pick
+  ct = checkout -t
+  df = diff
+  pk = cherry-pick
+  pl = pull
+  ps = push
+  sa = stash apply
+  sh = stash
+  sp = stash pop
+  ss = stash save
+  st = status
+  su = stash -u 
